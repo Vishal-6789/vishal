@@ -1,12 +1,12 @@
-package Lec_03_Patterns;
+package Pattern;
 
-public class Pat_0 {
+public class Pat_1{
 	public static void main(String[] args) {
-		int n = 5;
-		int cnt_st = 0;
-		while (cnt_st < n) {
+		int n = 8;
+		int cnt_str = 0;
+		while (cnt_str < n) {
 			System.out.print("😀 ");
-			cnt_st++;
+			cnt_str++;
 		}
 	}
 }
